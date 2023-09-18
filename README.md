@@ -30,11 +30,11 @@ pip install pillow
 
 ## SCREENSHOT
 
-![Interface](https://swanky.website/PicturesAndGifs/randomgenerate1.png)
+![Interface](https://github.com/muhammedmustafageldi/My-Design-Files/blob/main/Screnshots/RandomUserGenerator/randomgenerate1.png)
 
-![Generate1](https://swanky.website/PicturesAndGifs/randomgenerate2.png)
+![Generate1](https://github.com/muhammedmustafageldi/My-Design-Files/blob/main/Screnshots/RandomUserGenerator/randomgenerate2.png)
 
-![Generate2](https://swanky.website/PicturesAndGifs/randomgenerate3.png)
+![Generate2](https://github.com/muhammedmustafageldi/My-Design-Files/blob/main/Screnshots/RandomUserGenerator/randomgenerate3.png)
 
 ## CONTRIBUTION
 
